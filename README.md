@@ -1,0 +1,2 @@
+# TestAndroidProject
+入社前課題用Androidプロジェクト
